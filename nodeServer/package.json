@@ -1,13 +1,13 @@
 {
   "name": "nodeserver",
   "version": "1.0.0",
-  "description": "This is a node server for our iChat application",
+  "description": "This is a node server for our MyChat application",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Harry",
+  "author": "deepak",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.19",
